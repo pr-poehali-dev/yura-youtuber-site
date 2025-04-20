@@ -66,7 +66,7 @@ const Index = () => {
             
             <div className="grid grid-cols-3 gap-4 mt-12 max-w-md mx-auto">
               <div className="text-center">
-                <div className="text-2xl font-bold">50K+</div>
+                <div className="text-2xl font-bold">15</div>
                 <div className="text-sm text-white/70">Подписчиков</div>
               </div>
               <div className="text-center">
@@ -101,7 +101,7 @@ const Index = () => {
                   </div>
                   <div>
                     <h3 className="font-medium">Растущее сообщество</h3>
-                    <p className="text-muted-foreground">Более 50 тысяч подписчиков и активное сообщество в комментариях</p>
+                    <p className="text-muted-foreground">15 подписчиков и активное сообщество в комментариях</p>
                   </div>
                 </div>
                 
