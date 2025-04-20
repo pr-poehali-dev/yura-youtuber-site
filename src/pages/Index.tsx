@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import Navbar from "@/components/Navbar";
 import VideoCard from "@/components/VideoCard";
 import SubscribeForm from "@/components/SubscribeForm";
-import { Youtube, ChevronRight, Users, Video, Award } from "lucide-react";
+import { Youtube, ChevronRight, Users, Video, Award, Play } from "lucide-react";
 
 const Index = () => {
   // Данные для примера видео
